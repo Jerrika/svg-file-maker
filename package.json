@@ -1,0 +1,26 @@
+{
+  "name": "jerrika-svg-file-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jerrika/https://github.com/Jerrika/svg-file-maker"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jerrika/svg-file-maker"
+  },
+  "homepage": "https://github.com/Jerrika/svg-file-maker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.4.3"
+  }
+}
