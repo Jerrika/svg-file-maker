@@ -24,7 +24,7 @@ class Circle {
     constructor() {
         this._cx = 150;
         this._cy = 100;
-        this._r = 50;
+        this._r = 50; // Adjust the radius to change the size of the circle
         this._color = '';
     }
 
@@ -41,7 +41,7 @@ class Square {
     constructor() {
         this._x = 100;
         this._y = 50;
-        this._size = 100;
+        this._size = 100; // Adjust the size to change the width and height of the square
         this._color = '';
     }
 
@@ -56,7 +56,7 @@ class Square {
 
 class Triangle {
     constructor() {
-        this._points = '100,0 200,200 0,200';
+        this._points = '100,0 200,200 0,200'; // Adjust the points to change the size of the triangle
         this._color = '';
     }
 
